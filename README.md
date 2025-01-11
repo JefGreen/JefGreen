@@ -4,6 +4,8 @@
 
 ## [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefGreen&layout=compact&theme=dark&hide_title=true)](https://github.com/JefGreen)
 
+## [![My streaks](https://github-readme-streak-stats.herokuapp.com/?user=JefGreen&theme=highcontrast&hide_border=true)](https://github.com/JefGreen)
+
 <!--
 **JefGreen/JefGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
