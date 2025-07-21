@@ -8,7 +8,7 @@
 <!--
 **JefGreen/JefGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-add tryhackme badges
+add tryhackme badges re
 
 Here are some ideas to get you started:
 
