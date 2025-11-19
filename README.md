@@ -4,7 +4,7 @@
 
 
 ## My track hack me acchievements
-<img src="https://tryhackme.com/Some1ShouldPatchThis/streak?sharerId=67edf8e1491995150e0d90f2" alt="Streak">
+<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png" alt="Streak">
 
 <!--
 **JefGreen/JefGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
