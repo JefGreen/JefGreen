@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JefGreen&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true)](https://github.com/JefGreen)
+<!-- ## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JefGreen&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true)](https://github.com/JefGreen) -->
+
+![JefGreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefGreen&show_icons=true&theme=transparent)
 
 
 ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis)
 <img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png" alt="Streak">
+https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png
 
 <!--
 **JefGreen/JefGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
