@@ -6,8 +6,13 @@
 
 
 ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis)
-<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#4" alt="Streak">
-
+<script>
+const image = () => {
+    retrun '<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#4" alt="Streak">'
+}
+image()
+// <img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#4" alt="Streak">
+</script>
 <!--
 **JefGreen/JefGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
