@@ -7,9 +7,10 @@ def update_readme_date():
     with open(readme_path, "r") as f:
         content = f.read()
 
+
+    # TODO: use a regex to match the url what ever the date is and replace it with the current date and time
     new_content = content.replace(
-        "<!-- DYNAMIC_DATE -->",
-        f"<!-- DYNAMIC_DATE --> {current_date} (UTC)" # Add timezone if relevant
+        <img src=f"https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#{current_date}" alt="Streak">
     )
 
     with open(readme_path, "w") as f:
