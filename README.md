@@ -8,3 +8,5 @@
 ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis)
 
 <img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#4" alt="Streak">
+
+<!-- DYNAMIC_DATE -->
