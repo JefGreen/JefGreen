@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## About me
+
+## Tech Stack
+```
+Python        ████████████████████  Primary
+Javascript    █████████████████░░░  Proficient
+Typescript    ████████████████░░░░  Proficient  
+Golang        ███████████░░░░░░░░░  Proficient
+Rust          ██░░░░░░░░░░░░░░░░░░  Beginner
+```
+
 ## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JefGreen&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true)](https://github.com/JefGreen)
 
 <!-- ![JefGreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefGreen&show_icons=true&theme=transparent#4) -->
