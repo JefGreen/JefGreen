@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-## About me
+I'm Jeff. I'm a developer who loves data and solving down to eart problems.
 
 ## Tech Stack
 ```
