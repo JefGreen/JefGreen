@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm Jeff. I'm a developer who loves data and solving down to eart problems.
 
+## What I do
+I try to keep up good habits to improve my craft. Help when I can with projects and automation, work on personal projects from time to time and keepup learning on TryHackme daily.
+
 ## Tech Stack
 ```
 Python        ████████████████████  Primary
@@ -17,5 +20,5 @@ Rust          ██░░░░░░░░░░░░░░░░░░  Begi
 
 ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis)
 
-<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#4" alt="Streak">
+<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#1" alt="Streak" width="50">
 
