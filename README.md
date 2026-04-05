@@ -2,7 +2,7 @@
 I'm Jeff. A developer who loves data and solving down to eart problems.
 
 ## What I do
-I try to keep up good habits to improve my craft. Help when I can with projects and automation, work on personal projects from time to time and keepup learning on TryHackme daily.
+I try to keep up good habits to improve my craft. Help friends when I can with projects and automation, work on personal projects from time to time and keep up learning on TryHackme daily.
 
 [<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis)
 
