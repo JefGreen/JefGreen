@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Jeff. A developer who loves data and solving down to eart problems.
+I'm Jeff. A developer who loves data and solving down to earth problems.
 
 ## What I do
 I try to keep up good habits to improve my craft. Help friends when I can with projects and automation, work on personal projects from time to time and keep up learning on TryHackme daily.
