@@ -1,12 +1,3 @@
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>test</mark>
-
-
 ## Hi there 👋
 I'm Jeff. A developer who loves data and solving down to earth problems.
 
