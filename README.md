@@ -6,6 +6,9 @@ I try to keep up good habits to improve my craft. Help friends when I can with p
 
 [<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis)
 
+<img src="https://tryhackme.com/dashboard?badge=Some1ShouldPatchThis:365-day-streak" alt="Streak" width="250">
+
+
 ## Tech Stack
 ```
 Python        ████████████████████  Primary
@@ -23,6 +26,11 @@ Rust          ██░░░░░░░░░░░░░░░░░░  Begi
 <!-- ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis) -->
 
 <!-- <img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#1" alt="Streak" width="100"> -->
+
+
+https://tryhackme.com/Some1ShouldPatchThis/badges/365-day-streak
+
+https://tryhackme.com/dashboard?badge=Some1ShouldPatchThis:365-day-streak
 
 
 <!-- to update image: -->
