@@ -4,7 +4,7 @@ I'm Jeff. A developer who loves data and solving problems.
 ## What I do
 On my personnal time, I try to keep up good habits to improve my craft. TryHackme daily, personal projects and/or help friends with projects.
 
-On my work front, working full time at Paren and I've done consulting and teaching in the past.
+On the work front, working full time at Paren and I've done consulting and teaching in the past.
 
 [<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png?v=3" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis)
 
