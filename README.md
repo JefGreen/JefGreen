@@ -1,30 +1,12 @@
 ## Hi there 👋
-I'm Jeff. A developer who loves data and solving down to earth problems.
+I'm Jeff. A developer who loves data and solving problems.
 
 ## What I do
-I try to keep up good habits to improve my craft. Help friends when I can with projects and automation, work on personal projects from time to time and keep up learning on TryHackme daily.
+On my personnal time, I try to keep up good habits to improve my craft. TryHackme daily, personal projects and/or help friends with projects.
+
+On my work front, working full time at Paren and I've done consulting and teaching in the past.
 
 [<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png?v=3" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis)
-
-
-<!-- <div style="display: flex; width: 300px; height: 120px">
-<img src="https://assets.tryhackme.com/img/badges/streak365.png" alt="Avatar" style="height:120px">
-
-<div style="height:120px; display: flex; justify-content: center;">
-<p>365 Day Streak</p>
-
-</div>
-
-</div> -->
-
-
-<!-- <div width="250" style="display-flex" class="card">
-  <img src="https://assets.tryhackme.com/img/badges/streak365.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4> 
-    <p>Architect & Engineer</p> 
-  </div>
-</div> -->
 
 
 ## Tech Stack
@@ -32,16 +14,9 @@ I try to keep up good habits to improve my craft. Help friends when I can with p
 Python        ████████████████████  Primary
 Javascript    █████████████████░░░  Proficient
 Typescript    ████████████████░░░░  Proficient  
-Golang        ███████████░░░░░░░░░  Proficient
+Golang        █████████████░░░░░░░  Proficient
 Rust          ██░░░░░░░░░░░░░░░░░░  Beginner
 ```
-
-
-
-<!-- ## [My tryhackme](https://tryhackme.com/p/Some1ShouldPatchThis) -->
-
-<!-- <img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png#1" alt="Streak" width="100"> -->
-
 
 
 <!-- to update image: -->
