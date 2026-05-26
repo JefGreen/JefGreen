@@ -12,7 +12,7 @@ On the work front, working full time at Paren and I've done consulting and teach
 ## Tech Stack
 ```
 Python        ████████████████████  Primary
-Javascript    █████████████████░░░  Proficient
+Javascript    ██████████████████░░  Proficient
 Typescript    ████████████████░░░░  Proficient  
 Golang        █████████████░░░░░░░  Proficient
 Rust          ██░░░░░░░░░░░░░░░░░░  Beginner
