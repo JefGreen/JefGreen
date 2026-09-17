@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm Jeff, a Full-stack software engineer with nearly 10 years of experience in software and automation development. I have led multiple greenfield projects from initial concept to production, as well as development teams and end-to-end projects in close collaboration with stakeholders. I enjoy building reliable, maintainable tools and finding opportunities to turn laborious processes into efficient, automated workflows. I also value knowledge sharing, collaboration, and continuous learning, with a particular interest in cybersecurity and personal software projects.
-
-
-## What I do
+<!--  -->
+<!--  -->
+<!-- ## What I do
 On my personnal time, I try to keep up good habits to improve my craft. TryHackme daily, personal projects and/or help friends with projects.
 
 On the work front, working full time at Paren and I've done consulting and teaching in the past.
 
-[<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png?v=3" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis)
+[<img src="https://tryhackme-images.s3.amazonaws.com/streak/Some1ShouldPatchThis.png?v=3" alt="Streak" width="250">](https://tryhackme.com/p/Some1ShouldPatchThis) -->
 
 
 ## Tech Stack
